@@ -1,0 +1,20 @@
+{
+  "name": "@alexsandron3/toolkit-research",
+  "version": "1.0.9",
+  "description": "A sample Node.js project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "peerDependencies": {
+    "luxon": "^2.5.2"
+  }
+}
